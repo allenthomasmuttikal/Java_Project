@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Area_of_Circle
+comment0.text=\r\n\ This\ program\ calculates\ and\ displays\ the\ area\ of\ a\ circle\ with\ the\ entered\ radius\r\n\r\n\ @author\ (Allen\ Thomas.M)\r\n\ @author\ email\ (allenthomasmuttikal@gmail.com)\r\n\ @author\ git(https\://github.com/allenthomasmuttikal/Java_Project)\r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

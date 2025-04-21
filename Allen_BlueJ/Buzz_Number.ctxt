@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Buzz_Number
+comment0.text=\r\n\ This\ program\ checks\ and\ displays\ if\ the\ entered\ number\ is\ a\ Buzz\ Number\r\n\ \r\n\ NOTE\:In\ a\ mathematical\ context,\ a\ "buzz\ number"\ is\ a\ number\ that\ either\ \r\n\ ends\ in\ the\ digit\ 7\ or\ is\ divisible\ by\ 7.\ A\ number\ that\ satisfies\ either\r\n\ of\ these\ conditions\ is\ considered\ a\ buzz\ number.\r\n\ \r\n\ @author\ (Allen\ Thomas.M)\r\n\ @author\ email\ (allenthomasmuttikal@gmail.com)\r\n\ @author\ git(https\://github.com/allenthomasmuttikal/Java_Project)\r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
