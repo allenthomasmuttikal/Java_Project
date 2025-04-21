@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Electricity
+comment0.text=\r\n\ This\ program\ calculates\ and\ displays\ the\ Electricity\ Bill\ amount\ based\ on\ the\ consumption.\r\n\ Note\:\ Units\ Consumed\ upto\ 100\ is\ charged\ 1.25\ Rs/Unit\r\n\ \ \ \ \ \ \ Units\ consumed\ abouve\ 100\ units\ but\ below\ 201\ units\ is\ charged\ 1.5\ Rs/Unit\r\n\ \ \ \ \ \ \ Units\ above\ 200\ are\ charged\ at\ 1.8\ Rs/Unit\r\n\r\n\ @author\ (Allen\ Thomas.M)\r\n\ @author\ email\ (allenthomasmuttikal@gmail.com)\r\n\ @author\ git(https\://github.com/allenthomasmuttikal/Java_Project)\r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Electronics_World
+comment0.text=\r\n\ This\ program\ calculates\ and\ displays\ the\ Recipt\ Slip\ for\ Purchase\ of\ Electronics\ Goods\ (Air-Conditioner\ /\ LCD\ Tv).\r\n\ The\ Net\ Cost\ for\ the\ product\ depends\ on\ the\ Discount\ obtained\ based\ on\ the\ Purchase\ Price\ and\ Tax.\r\n\r\n\ @author\ (Allen\ Thomas.M)\r\n\ @author\ email\ (allenthomasmuttikal@gmail.com)\r\n\ @author\ git(https\://github.com/allenthomasmuttikal/Java_Project)\r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
