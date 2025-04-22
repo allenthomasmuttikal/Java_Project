@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Switch_Case_2
+comment0.text=\r\nThis\ program\ calculates\ and\ displays\ various\ tasks\ based\ on\ the\ user's\ choice.\r\n\ The\ 6\ options\ are\:\r\n\ 1.print\ numbers\ from\ 1-10\r\n\ 2.print\ numbers\ from\ 10-1\r\n\ 3.flip/reverse\ a\ number\r\n\ 4.count\ and\ display\ the\ number\ of\ digits\ in\ a\ number\r\n\ 5.find\ and\ display\ the\ sum\ of\ the\ digits\ of\ a\ number\r\n\ 6.find\ and\ display\ the\ factorial\ of\ a\ number\r\n\ \r\n\ @author\ (Allen\ Thomas.M)\r\n\ @author\ email\ (allenthomasmuttikal@gmail.com)\r\n\ @author\ git(https\://github.com/allenthomasmuttikal/Java_Project)\r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
