@@ -21,7 +21,7 @@ public class Alphabets
                 System.out.println("Output:");
                 while(a <= 90)
                 {
-                   System.out.println((char)(a)); 
+                   System.out.print((char)(a)); 
                    a++;
                 }
                 break;
@@ -30,7 +30,7 @@ public class Alphabets
                   System.out.println("Output:");
                   while(b <= 122)
                   {
-                      System.out.println((char)(b));
+                      System.out.print((char)(b));
                       b++;
                   }
                   break;
