@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Magic_Number
+comment0.text=\r\n\ The\ program\ calls\ an\ entered\ number\ as\ a\ magic\ number\ if\ the\ repeated\ sum\ of\ its\ digits\ equals\ to\ 1\ \r\n\ Example\:\ 253\ ->\ 2\ +\ 5\ +\ 3\ \=\ 10\ ->\ 1\ +\ 0\ \=\ 1\ (Hence\ 253\ is\ a\ Magic\ Number)\r\n\ Example\:\ 254\ ->\ 2\ +\ 5\ +\ 4\ \=\ 11\ ->\ 1\ +\ 1\ \=\ 2\ (254\ is\ not\ a\ Magic\ Number\ since\ repeated\ sum\ of\ its\ digits\ not\ 1)\r\n\r\n\ @author\ (Allen\ Thomas.M)\r\n\ @author\ email\ (allenthomasmuttikal@gmail.com)\r\n\ @author\ git(https\://github.com/allenthomasmuttikal/Java_Project)\r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

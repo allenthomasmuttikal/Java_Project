@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Days_Months
+comment0.text=\r\n\ This\ program\ is\ to\ display\ the\ number\ of\ days\ in\ a\ month\ depending\ on\ the\ user's\ input.\r\n\ It\ does\ it\ through\ the\ \ Fall\ Through\ Condition.\r\n\ \r\n\ NOTE\:\ Fall\ through\ condition\ \:\ This\ condition\ occurs\ in\ the\ switch\ control\ statement\ \r\n\ when\ there\ is\ no\ break\ keyword\ mention\ for\ the\ particular\ case\ in\ the\ switch\ statement\r\n\ and\ cause\ execution\ of\ the\ cases\ till\ no\ break\ statement\ occurs\ or\ exit\ from\ the\ switch\ \r\n\ statement.\ This\ condition\ has\ its\ own\ advantage\ and\ disadvantage\ and\ it\ totally\ depends\ \r\n\ upon\ the\ type\ of\ operation\ we\ want\ in\ our\ program.\ \r\n\r\n\ @author\ (Allen\ Thomas.M)\r\n\ @author\ email\ (allenthomasmuttikal@gmail.com)\r\n\ @author\ git(https\://github.com/allenthomasmuttikal/Java_Project)\r\n\ @version\ (v1.0)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -45,6 +45,7 @@ public class Switch_Case_1
                      System.out.println("Output:");
                      System.out.println("The area of  circle with radius "+radius+" is : "+area);
                      break;
+            default:System.out.println("Invalid Input");          
         }
     }
 }

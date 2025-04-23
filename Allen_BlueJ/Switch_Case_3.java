@@ -147,7 +147,7 @@ public class Switch_Case_3
                     else
                     System.out.println(d+" is not an Automorphic Number");
                     break;
-                     
+            default:System.out.println("Invalid Input");          
         }
     }
 }

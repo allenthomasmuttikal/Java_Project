@@ -108,6 +108,7 @@ public class  Switch_Case_4
                     System.out.println("Output:");
                     System.out.println("The sum of the digits in odd positions of "+t+" is : "+summation );
                     break;
+            default:System.out.println("Invalid Input"); 
         }
     }
 }

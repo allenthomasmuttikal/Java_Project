@@ -96,6 +96,7 @@ public class Switch_Case_2
                     System.out.println("Output:");
                     System.out.println("The factorial of "+d+" is : "+factorial);
                     break;
+            default:System.out.println("Invalid Input");         
         }   
     }
 }
